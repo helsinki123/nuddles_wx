@@ -23,67 +23,7 @@
 
 - [WeUI](https://github.com/Tencent/weui-wxss/)
 
-#### 扫码体验
-<img src="https://images.gitee.com/uploads/images/2020/0802/111712_a4250a24_44151.jpeg" width="200px">
 
-#### 其他开源模板
 
-| 舔果果小铺 | 天使童装 | AI名片 |
-| :------: | :------: | :------: |
-| <img src="https://images.gitee.com/uploads/images/2020/0802/111712_3642a10f_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_5659d9e2_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_b05ff175_44151.jpeg" width="200px"> | 
-| [开源地址](https://github.com/walcer/TianguoguoXiaopu) | [开源地址](https://github.com/EastWorld/wechat-app-mall) | [开源地址](https://github.com/gooking/visitingCard) |
 
-## 联系作者
-
-| 微信好友 | 支付宝好友 |
-| :------: | :------: |
-| <img src="https://images.gitee.com/uploads/images/2020/0802/111712_679c77a2_44151.jpeg" width="200px"> | <img src="https://images.gitee.com/uploads/images/2020/0802/111712_97c8269b_44151.jpeg" width="200px"> |
-
-#### QQ交流群
-
-973122103
-
-#### 使用说明
-
-1. [api工厂](https://www.it120.cc/) 右上角注册免费开通您的专属后台
-
-    建议将上面扫码演示的小程序的测试数据一键克隆到你自己的后台，方便测试，调试完毕后，再在后台重新修改/发布数据
-    
-    > 登录后台，左侧菜单 “工厂设置” --> “数据克隆”， 选择 “将别人的数据克隆给我”，对方商户ID ，填写 13886 ，接口完成数据克隆
-
-2. 设置小程序名称 mallName
-   <img src="https://images.gitee.com/uploads/images/2020/0802/111712_f9610be1_44151.png">
-3. 上传 banner 轮播图片
-   <img src="https://images.gitee.com/uploads/images/2020/0802/111712_936d58d7_44151.png">
-4. 设置小程序 appid 和 secret
-   <img src="https://images.gitee.com/uploads/images/2020/0802/111713_2436e87e_44151.png">
-5. 数据维护
-   <img src="https://images.gitee.com/uploads/images/2020/0802/111713_d4921518_44151.png">
-
-6. 修改本项目源码根目录下 config.js 文件， noodles 为您的专属域名
    
-    ```javascript
-    module.exports = {
-      version: "0.0.1",
-      note: '构建项目',
-      subDomain: "noodles"
-    }
-    ```
-
-    [《什么是专属域名？》](https://www.yuque.com/apifm/doc/qr6l4m)
-
-7. [设置小程序合法服务器域名](https://www.yuque.com/apifm/doc/tvpou9)
-   
-8. 重启您的小程序开发工具，完成
-   
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 版本计划
-
-1. 「2019-04-13」 发布 0.0.1 版本，支持在线下单；联动打印机自动出单；
