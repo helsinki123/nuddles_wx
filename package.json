@@ -1,0 +1,18 @@
+{
+  "name": "zzm",
+  "version": "1.0.0",
+  "description": "- [github地址](https://github.com/woniudiancang/bee)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/zou_zhi_min/noodle_shop_procedures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "weui-miniprogram": "^1.2.3"
+  }
+}

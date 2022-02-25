@@ -1,0 +1,9 @@
+{
+  "usingComponents":{
+      "test3":"../test3/test3",
+      "foo":"../../components/foo/foo",
+      "mp-dialog": "weui-miniprogram/dialog/dialog",
+      "mp-icon": "weui-miniprogram/icon/icon"
+
+  }
+}

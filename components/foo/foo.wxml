@@ -1,0 +1,8 @@
+<!--components/foo/foo.wxml-->
+<view class="box">
+    <button bindtap="getName">getName</button>
+    <h1>{{name}}</h1>
+    <view wx:for="{{arr.arr2}}" wx:for-item="i" wx:for-index="index">
+        {{i}}
+    </view>
+</view>
